@@ -22,6 +22,7 @@ This project demonstrates practical implementation of real-time gesture recognit
 7. Event-driven UI overlay design
 
 **🛠 Tech Stack**
+
 - Python 3.10+
 - OpenCV
 - MediaPipe
@@ -36,6 +37,7 @@ app/
 The system follows a clean modular structure separating tracking, gesture logic, rendering engine, and UI components.
 
 **▶️ How to Run**
+
 pip install -r requirements.txt
 python run.py
 Press ESC to exit.
