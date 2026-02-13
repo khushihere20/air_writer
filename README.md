@@ -1,4 +1,5 @@
 **🖊️ AirWriter – Real-Time Gesture Controlled Drawing System**
+
 AirWriter is a real-time computer vision application that enables touchless writing and drawing using hand gestures. Built using Python, OpenCV, and MediaPipe, the system detects and tracks 21 hand landmarks to translate finger movements into smooth digital strokes with high responsiveness.
 This project demonstrates practical implementation of real-time gesture recognition, state-based interaction design, and UI overlay systems.
 
