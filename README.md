@@ -29,6 +29,7 @@ This project demonstrates practical implementation of real-time gesture recognit
 - NumPy
 
 **📂 Architecture Overview**
+
 app/
  ├── tracking/        # Hand tracking & gesture detection
  ├── engine/          # Drawing logic & stroke smoothing
@@ -38,9 +39,9 @@ The system follows a clean modular structure separating tracking, gesture logic,
 
 **▶️ How to Run**
 
-pip install -r requirements.txt
-python run.py
-Press ESC to exit.
+- pip install -r requirements.txt
+-  python run.py
+-  Press ESC to exit.
 
 **💡 Future Scope**
 - Undo/Redo functionality
